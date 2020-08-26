@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(231, 207, 227);
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    height: 40px;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color:#3f6148;
+ }
+
+ form{
+     background-color: lavenderblush;
+     height: 350px;
+     width: 350px;
+    padding: 30px;
+    
+ }
+
